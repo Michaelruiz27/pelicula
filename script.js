@@ -8,7 +8,8 @@ let messages = [
   'Piensalo bien',
   'Piensalo muy bien',
   'Piensalo',
-  'Mira el otro botón'
+  'Mira el otro botón',
+  'Segura que estas viendo el otro boton'
 ]
 
 buttonNo.addEventListener('click', () => {
